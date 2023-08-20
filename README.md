@@ -3,6 +3,9 @@
 Hello, I'm Karim Tarek, a Mechatronics Engineering fresh graduate with a passion for innovative technology solutions.
 graduated from the higher technological institute 10th of ramadan city (HTI) in may 2023.
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Embedded+SoftWare+Engineer)](https://git.io/typing-svg)
+
+
 ## About Me
 
 🎓 Graduated in Mechatronics Engineering.\
