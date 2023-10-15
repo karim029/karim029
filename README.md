@@ -15,6 +15,8 @@ graduated from the higher technological institute 10th of ramadan city (HTI) in 
 
 ## Technical Skills
 
+- Arm Cortex-M Architecture
+- STM32 Expert
 - Embedded Systems Development
 - Arduino and Raspberry Pi Projects
 - Atmega32 Microcontroller Proficiency
