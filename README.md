@@ -13,17 +13,17 @@ Hello, I'm Karim Tarek, a software engineer with a specialization in multiple fi
 📱 Proficient in mobile application development using Flutter and Dart.
 
 ## Technical Skills
-Unity Game Development for Mobile
-Algorithmic Trading with MetaTrader 5
-Trading Bots using Python and Telegram
-Mobile Application Development with Flutter and Dart
-Arm Cortex-M Architecture
-STM32 Expertise
-Embedded Systems Development
-Arduino and Raspberry Pi Projects
-Atmega32 Microcontroller Proficiency
-Object Detection and Computer Vision
-Software and Driver Development
+- Unity Game Development for Mobile
+- Algorithmic Trading with MetaTrader 5
+- Trading Bots using Python and Telegram
+- Mobile Application Development with Flutter and Dart
+- Arm Cortex-M Architecture
+- STM32 Expertise
+- Embedded Systems Development
+- Arduino and Raspberry Pi Projects
+- Atmega32 Microcontroller Proficiency
+- Object Detection and Computer Vision
+- Software and Driver Development
 
 - [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/114913268/)
 
