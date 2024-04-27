@@ -7,10 +7,10 @@ Hello, I'm Karim Tarek, a software engineer with a specialization in multiple fi
 
 
 ## About Me
-🎓 Graduated in Mechatronics Engineering from the Higher Technological Institute, 10th of Ramadan City (HTI), in May 2023.
-🎮 Experienced in mobile game development using Unity Engine.
-📈 Skilled in creating trading algorithms and bots using MetaTrader 5 and Python Telegram.
-📱 Proficient in mobile application development using Flutter and Dart.
+🎓 - Graduated in Mechatronics Engineering from the Higher Technological Institute, 10th of Ramadan City (HTI), in May 2023.
+🎮 - Experienced in mobile game development using Unity Engine.
+📈 - Skilled in creating trading algorithms and bots using MetaTrader 5 and Python Telegram.
+📱 - Proficient in mobile application development using Flutter and Dart.
 
 ## Technical Skills
 - Unity Game Development for Mobile
