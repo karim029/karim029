@@ -25,7 +25,8 @@ Hello, I'm Karim Tarek, a software engineer with a specialization in multiple fi
 - Object Detection and Computer Vision
 - Software and Driver Development
 
-- [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/114913268/)
+
+  [![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/114913268/)
 
 
 
