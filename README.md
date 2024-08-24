@@ -13,6 +13,8 @@ Hello, I'm Karim Tarek, a software engineer with a specialization in multiple fi
 📱 - Proficient in mobile application development using Flutter and Dart. 
 
 ## Technical Skills
+- flutter framework
+- Node.Js
 - Unity Game Development for Mobile
 - Algorithmic Trading with MetaTrader 5
 - Trading Bots using Python and Telegram
