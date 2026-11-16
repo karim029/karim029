@@ -1,22 +1,27 @@
 # Karim Tarek
 
-Hello, I'm Karim Tarek, a software engineer specializing in full-stack development with expertise in the MERN stack, Flutter, Node.js, and MongoDB.
+### Backend Developer — NestJS · TypeScript · Node.js · SQL
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Full+Stack+Developer)](https://git.io/typing-svg)
+Mechatronics Engineering graduate (HTI, 2023), now building production-style backends: clear data models, migrations, tests, and APIs that stay fast as data grows.
+Before moving into development I worked on the business side of SaaS, so I start from what users actually need and work back to the code.
 
-## About Me
-🎓 - Graduated in Mechatronics Engineering from the Higher Technological Institute, 10th of Ramadan City (HTI), in May 2023. \
-📱 - Experienced in mobile application development using Flutter and Dart. \
-💻 - Full-stack developer with strong proficiency in the MERN stack (MongoDB, Express, React, Node.js). 
+[LinkedIn](https://www.linkedin.com/in/karim-tarek-114913268) · Cairo, Egypt
 
-## Technical Skills
-- **Frontend:** React.js, Flutter (Dart)
-- **Backend:** Node.js, Express.js, MongoDB
-- **Programming Languages:** C, C++, Python, JavaScript, Dart
-- **Mobile Development:** Flutter & Dart
-- **Database:** MongoDB
-- **Version Control:** Git, GitHub
+## Featured projects
 
-[![LinkedIn](https://img.shields.io/static/v1?label=LinkedIn&message=Connect&color=blue&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/yourprofile/)](https://www.linkedin.com/in/114913268/)
+**[Document Requests API](https://github.com/karim029/document-requests-api)**
+Backend where accountants request documents from clients. NestJS, TypeORM and MariaDB, with a versioned review workflow, keyset-paginated inbox, dashboard, bulk creation, migrations and integration tests, load-tested with 1M requests.
 
-![Profile Views](https://komarev.com/ghpvc/?username=karim029)
+**[Brandify](https://github.com/karim029/Brandify)**
+E-commerce REST API for local clothing brands. Node.js, Express and MongoDB, with JWT access and refresh tokens, role-based access, a stock-aware cart, checkout with discount codes, and rate limiting.
+
+Smaller builds: [Personal Blog API](https://github.com/karim029/Personal_Blog_API) (NestJS, TypeORM, MySQL) · [Weather API](https://github.com/karim029/weather-api-service) (Express, Redis caching)
+
+## Tech stack
+
+- **Backend:** NestJS · Node.js · Express
+- **Languages:** TypeScript · JavaScript
+- **Databases:** MySQL / MariaDB · MongoDB · TypeORM
+- **Tools:** Docker · Git
+
+Also worked with: C, C++, Python
