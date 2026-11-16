@@ -21,7 +21,7 @@ Smaller builds: [Personal Blog API](https://github.com/karim029/Personal_Blog_AP
 
 - **Backend:** NestJS · Node.js · Express
 - **Languages:** TypeScript · JavaScript
-- **Databases:** MySQL / MariaDB · MongoDB · TypeORM
+- **Databases:** MySQL / MariaDB · MongoDB · Postgres · TypeORM
 - **Tools:** Docker · Git
 
 Also worked with: C, C++, Python
